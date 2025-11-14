@@ -38,7 +38,7 @@ Make a proper weather app:
 ### Links
 
 - Github URL: [Github](https://github.com/VikashUpadhyay442/weather_app)
-<!-- - Live Site URL: [Github pages](https://vikashupadhyay442.github.io/Interactive_Gallery/) -->
+- Live Site URL: [Github pages](https://vikashupadhyay442.github.io/weather_app/)
 
 ## My process
 
