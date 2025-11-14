@@ -5,7 +5,7 @@ It is a project consisting of Python, HTML, tailwindCSS, JavaScript. It is built
 ## ScreenShot
 
 <p align="center">
-<img src="img/1.png" width="19%">
+<img src="img/1.png" width="100%">
 <img src="img/2.png" width="19%">
 <img src="img/3.png" width="19%">
 <img src="img/4.png" width="19%">
